@@ -1,5 +1,5 @@
-# NAME: PRADEEP V
-# REG NO: 212223240119
+# NAME: MURALI KRISHNA S
+# REG NO: 212223230129
 # Linux-Process-API-fork-wait-exec-
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
